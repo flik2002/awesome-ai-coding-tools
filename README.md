@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** – Free open-source monitoring dashboard for OpenClaw AI agents: token usage tracking, real-time session list, 7-day trends, and system metrics. Vue 3 + ECharts, fully local, MIT.
 
 ## AI Frameworks and SDKs
 
